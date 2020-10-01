@@ -1,3 +1,3 @@
-## Sorting Algorithms Implementation
+##Algorithms Implementation
 
-This repository contains all the sorting programs assigned to me in my College Semester.
+This repository contains all the algorithm implementations assigned to me in my College Semester.
