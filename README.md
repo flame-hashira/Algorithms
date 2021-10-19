@@ -1,3 +1,3 @@
-## Algorithms Implementation
+# Algorithms
 
-This repository contains all the algorithm implementations assigned to me in my College Semester.
+This repository contains the algorithms implemented during my semester.
